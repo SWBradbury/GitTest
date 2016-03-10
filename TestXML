@@ -1,0 +1,8 @@
+<main>
+  <sub>
+    <data>This is data</data>
+  </sub>
+  <sub
+    <data>This is more data</data>
+  </sub>
+</main>
